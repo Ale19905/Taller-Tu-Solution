@@ -44,7 +44,6 @@ Abrí PowerShell **en la raíz del proyecto**, donde está `pubspec.yaml`, con u
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
 flutter analyze
-flutter test
 flutter devices
 flutter run
 ```
